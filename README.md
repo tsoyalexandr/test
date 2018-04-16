@@ -3,7 +3,7 @@ vq
 
 ## VQ4 ##
 
-
+to use vq.exe for external project
 
 ## folder1 to folder2 conversion ##
 Use VQ4 to analyze from folder1 files to diff folder2 files. For example:
